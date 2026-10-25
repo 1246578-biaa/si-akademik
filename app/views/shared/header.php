@@ -9,7 +9,7 @@
 <body>
 <nav class="navbar navbar-expand navbar-dark bg-dark">
     <div class="container">
-        <span class="navbar-brand">SI Akademik</span>
+        <span class="navbar-brand">Login SI Akademik</span>
         <div class="navbar-nav">
             <a class="nav-link" href="mahasiswa.php">Mahasiswa</a>
             <a class="nav-link" href="prodi.php">Prodi</a>
